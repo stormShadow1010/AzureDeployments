@@ -1,0 +1,20 @@
+*Development of new internal Tool*
+
+Usually, there are initiatives to collect new improvement or innovation ideas within our company.
+Out of these ideas, Innovation Backlog is created.
+Sponsor chooses based on funding possibilities and priority, often the most desired ideas are chosen based on voting.
+Ideas divided into – Essential, Good-to have, Declined
+Essential ideas are then “brought into life”.
+Transformation team is responsible for development of the software as a way to implement the IDEA, based on the initial IDEA submission.
+A team leader/product owner and often also Agile coach is appointed, required amount of developers is appointed.    
+The person/team who submitted the IDEA is contacted to provide specifications of the IDEA, requirements and features. 
+Developer(s) together with Team leader and Agile coach create Project Backlog based of the basic requirements, user stories and features.
+Sprints are weekly and Github, Slack and Mural are mostly used as project development management tools. 
+Development team is reporting to Sponsor on a weekly basis at the end of each Sprint regarding the budget consumption and progress.
+Team huddles take place every morning, where all committed teammembers discuss thir progress, limitations and request any help needed.
+The decision-making process is solely within the development/transformation team.
+Once MVP is developed, the idea creator(s) and other teams that will be using the software/tool are involved into the testing and they are 
+asked to provide feedback. After 1-2 weeks of iterations, tool is launched on Testing server and the testing continues. 
+The definition of done is based on deadline and budget determined by sponsor, which means that not all improvement suggestions/adjustments 
+in form of user stories are implemented. 
+Once the deadline is reached, the software is moved to production. Each feature that is implemented based on user stories is the increment.
